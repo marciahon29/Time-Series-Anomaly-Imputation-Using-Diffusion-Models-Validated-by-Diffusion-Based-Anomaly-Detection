@@ -9,3 +9,7 @@ EXPLANATION OF FILES
   b. Creates the Centroids file (average active_power for Fridge/Dishwasher/WashingMachine/Nothing). <br>
   c. Creates the 7 anomalies (StepChange, MultiStepChange, Mirror, Repeating, StuckMAX, StuckMIN, and PowerCycling) for 7 days. <br>
   d. Merges normal and anomalies together while specifying ground_truth_anomaly and ground_truth_appliance. <br>
+
+2. TimeSeries_AnomalyDetection.ipynb
+
+3. TimeSeries_AnomalyImputation.ipynb
