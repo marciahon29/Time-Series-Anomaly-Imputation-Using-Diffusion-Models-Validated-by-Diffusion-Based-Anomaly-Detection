@@ -15,7 +15,6 @@ Research in anomaly detection in Smart Meter time-series data is, generally, eva
 3. TimeSeries_AnomalyImputation.ipynb
 
 ## Project Directory Structure
-AnomalyType is: {3SIGMA, ISOLATIONFOREST, DBSCAN, AE, COCA, DIFFUSION_RESIDUALSPECTRAL}
 ```text
 /Original_Datasets_Fridge
 Masters_IndependentStudy
@@ -24,7 +23,7 @@ Masters_IndependentStudy
 ├── GREEND_ORIGINALS/
 ├── AMPds2_ORIGINALS/
 │
-├── Original_Datasets_Fridge/
+├── Original_Datasets_Fridge/ {This folder contains all the results from the "RESIDENCE"_ORIGNALS folders}
 │
 ├── AnomalyDiffusion/
 ├── AnomalyInserted/
