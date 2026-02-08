@@ -23,7 +23,7 @@ Masters_IndependentStudy
 ├── GREEND_ORIGINALS/
 ├── AMPds2_ORIGINALS/
 │
-├── Original_Datasets_Fridge/ {This folder contains all the results from the "RESIDENCE"_ORIGNALS folders}
+├── Original_Datasets_Fridge/ {This folder contains all the results from the "RESIDENCE"_ORIGNALS folders - above}
 │
 ├── AnomalyDiffusion/
 ├── AnomalyInserted/
