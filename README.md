@@ -19,6 +19,9 @@ Details are in the file "Independent Study - 2026-02-09.doc".
 4. "Independent Study - 2026-02-16.doc" <br>
 Explains the Statistics and Results.
 
+5. "Independent Study Draft.doc" <br>
+The Paper that describes this research.
+
 ## Project Directory Structure
 ```text
 /Original_Datasets_Fridge
