@@ -10,9 +10,14 @@ Research in anomaly detection in Smart Meter time-series data is, generally, eva
   c. Creates the 7 anomalies (StepChange, MultiStepChange, Mirror, Repeating, StuckMAX, StuckMIN, and PowerCycling) for 7 days. <br>
   d. Merges normal and anomalies together while specifying ground_truth_anomaly and ground_truth_appliance. <br>
 
-2. TimeSeries_AnomalyDetection.ipynb
+2. TimeSeries_AnomalyDetection.ipynb <br>
+Details are in the file "Independent Study - 2026-02-02 - version 02.doc".
 
-3. TimeSeries_AnomalyImputation.ipynb
+3. TimeSeries_AnomalyImputation.ipynb <br>
+Details are in the file "Independent Study - 2026-02-09.doc".
+
+4. "Independent Study - 2026-02-16.doc" <br>
+Explains the Statistics and Results.
 
 ## Project Directory Structure
 ```text
